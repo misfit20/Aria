@@ -5,7 +5,7 @@ import Image from "next/image";
 type PropertyCard = (typeof Propertieslist)[0] ;
 
 
-export function PropertyCard({baths,beds,id,image,price,rating}: PropertyCard){
+export function PropertyCard({image}: PropertyCard){
     return(
         
             <div className="border rounded-md overflow-hidden">
