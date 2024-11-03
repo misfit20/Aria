@@ -1,8 +1,6 @@
 "use client";
 
-import Image from "next/image";
-import buildingImage from "../../../public/house.jpg"; // Replace with the actual path to your image
-import { Button, buttonVariants } from "./button";
+import { Button} from "./button";
 
 const Hero = () => {
   return (

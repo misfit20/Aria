@@ -1,8 +1,5 @@
 import Link from "next/link"
-
-import { Button, buttonVariants } from "@/components/ui/button"
-import {LogIn, House, Rocket, Store, Star} from 'lucide-react';
-import { ModeToggle } from "./ui/toggle";
+import {House,Store} from 'lucide-react';
 import MobileMenu from "./MobileMenu";
 
 

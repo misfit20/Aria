@@ -1,4 +1,4 @@
-import Link from "next/link";
+
 import {Propertieslist} from "./Features"
 import Image from "next/image";
 
